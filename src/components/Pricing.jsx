@@ -3,7 +3,7 @@ import { Check, MessageSquare } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 const Pricing = () => {
-  const phoneNumber = "919342137681";
+  const phoneNumber = "917904578239";
 
   const getWhatsappLink = (planName) => {
     const message = `Hi Pradeepa, I'm interested in your ${planName} plan`;

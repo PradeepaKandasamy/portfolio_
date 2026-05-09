@@ -5,7 +5,7 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
 
   // WhatsApp Configuration (Synchronized with Contact component)
-  const phoneNumber = "919342137681";
+  const phoneNumber = "917904578239";
   const message = "Hi, I saw your portfolio and I want to work with you";
   const whatsappLink = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
 

@@ -57,7 +57,7 @@ const Services = () => {
   const [selectedService, setSelectedService] = useState(null);
 
   // WhatsApp Configuration
-  const phoneNumber = "919342137681";
+  const phoneNumber = "917904578239";
   
   const getWhatsappLink = (context) => {
     const message = `Hi, I'm interested in learning more about your ${context} services.`;
