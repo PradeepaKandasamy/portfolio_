@@ -13,7 +13,7 @@ const Pricing = () => {
   const plans = [
     {
       title: "Basic",
-      price: "₹2000",
+      price: "₹1500",
       description: "Perfect for a simple online presence.",
       features: [
         "Responsive website",

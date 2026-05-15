@@ -35,7 +35,7 @@ const Footer = () => {
               <Github size={20} className="group-hover:scale-110 transition-transform" />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/pradeepa-kandasamy-488b74320"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-xl bg-slate-50 text-slate-600 hover:text-blue-600 hover:bg-blue-50 transition-all duration-300 group"
